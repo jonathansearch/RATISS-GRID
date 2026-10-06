@@ -18,7 +18,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Citation](https://img.shields.io/badge/citation-CITATION.cff-blueviolet)](CITATION.cff)
 [![Config](https://img.shields.io/badge/config-Standard%202kW-orange)](docs/BOM.md)
-[![Méthode](https://img.shields.io/badge/m%C3%A9thode-Simulation%20%E2%86%92%20Validation%20%E2%86%92%20Assemblage-success)](MEMO_GRID.md)
+[![Method](https://img.shields.io/badge/method-Simulation%20%E2%86%92%20Validation%20%E2%86%92%20Assembly-success)](MEMO_GRID.md)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0000--4092--5313-a6ce39)](https://orcid.org/0009-0000-4092-5313)
 
 > Intellectual property: **JOHNKING0 & Jonathan Evina** · RATIS Labs (Cameroon)
@@ -126,7 +126,7 @@ ratiss-grid/
 ## 🚀 Quick start
 
 ```bash
-git clone https://github.com/samajonathan9-source/ratiss-grid.git
+git clone https://github.com/jonathansearch/RATISS-GRID.git
 cd ratiss-grid
 pip install -e .
 
